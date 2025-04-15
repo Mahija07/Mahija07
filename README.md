@@ -26,7 +26,7 @@ I'm a passionate Automotive Software Developer focused on **Model-Based Developm
 ## 📱 Featured App – AutoDev Vault 🚗🤖
 
 <p align="center">
-  <img src="https://github.com/Mahija07/Automotive_MBD_questionnaire/docs/assets/App.jpg" width="300" alt="AutoDev Vault Screenshot" />
+  <img src="https://github.com/Mahija07/Automotive_MBD_questionnaire/blob/Model_Based_Development_QnA/docs/assets/App.jpg" width="300" alt="AutoDev Vault Screenshot" />
 </p>
 
 **AutoDev Vault** is your companion for mastering the **Automotive Software Development** domain.
@@ -54,7 +54,7 @@ I'm a passionate Automotive Software Developer focused on **Model-Based Developm
 ## 📊 Language Usage Breakdown
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mahija07/Automotive_MBD_questionnaire/docs/assets/Pie_Chart.png" width="400" alt="Language Distribution Pie Chart"/>
+  <img src="https://github.com/Mahija07/Automotive_MBD_questionnaire/blob/Model_Based_Development_QnA/docs/assets/Pie_Chart.png" width="400" alt="Language Distribution Pie Chart"/>
 </p>
 
 | Language    | Usage (%) |
