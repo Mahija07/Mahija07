@@ -76,7 +76,7 @@ I'm a passionate Automotive Software Developer focused on **Model-Based Developm
 | Repository | Description |
 |-----------|-------------|
 | [Automotive_MBD_questionnaire](https://github.com/Mahija07/Automotive_MBD_questionnaire) | 📘 Categorized technical Q&A on Model-Based Design, AUTOSAR, Testing, and more |
-| [AutoDev_Vault](https://github.com/Mahija07/My_First_App/tree/AutoDev_Vault) | 📱 Flutter-based app rendering automotive interview questions from Markdown |
+| [AutoDev_Vault](https://github.com/Mahija07/AutoDev_Vault/tree/AutoDev_Vault) | 📱 Flutter-based app rendering automotive interview questions from Markdown |
 | More private projects coming soon! 🔒 |
 
 ---
