@@ -1,107 +1,86 @@
-<h1 align="center">Hi, I'm Mahija Verma 👋</h1>
+# 👋 Hi, I'm Mahija Verma
 
-<p align="center">
-  <i>Engineer. Developer. Automotive Enthusiast.</i><br>
-  <strong>Model-Based Development | Embedded C | AUTOSAR | System Design</strong>
-</p>
+🎯 **Senior System Engineer | Automotive Embedded Software | Model-Based Development | AUTOSAR | GTest | ISO 26262**
 
 ---
 
-## 🚀 About Me
+## 🔹 About Me
 
-I'm a passionate Automotive Software Developer focused on **Model-Based Development**, **Embedded Systems**, and **Flutter-based apps** that bridge content with functionality.
-
-- 🔧 I specialize in:
-  - Automotive MBD (Simulink, Stateflow, TLC, MISRA-C, Polyspace)
-  - AUTOSAR SWC, RTE, COM Stack, Interfaces
-  - Embedded C, Static Analysis (Polyspace, SonarQube)
-  - Tools: GTest, JIRA, Git, MATLAB, MagicDraw, PREEvision
-  - Documentation: MkDocs, Markdown, GitHub Pages
-  - Mobile Dev: Flutter & Dart
-- 📚 Currently building tools to simplify automotive interview preparation
-- ✨ Exploring clean UI, automation, and elegant tech documentation
+I'm an Automotive Software Engineer with 4+ years of experience in **Model-Based Development (MBD)** and testing of **safety-critical embedded systems**, currently working as a **Senior System Engineer** at **Tata Consultancy Services**. My focus has been on developing and validating lighting ECU software for production vehicles, ensuring compliance with **AUTOSAR**, **MISRA C**, and **ISO 26262** standards.
 
 ---
 
-## 📱 Featured App – AutoDev Vault 🚗🤖
+## 🧩 Corporate Experience
 
-<p align="center">
-  <img src="https://github.com/Mahija07/Automotive_MBD_questionnaire/blob/Model_Based_Development_QnA/docs/assets/App.jpg" width="300" alt="AutoDev Vault Screenshot" />
-</p>
+### 🏢 **Tata Consultancy Services**  
+📌 *Senior System Engineer | Apr 2021 – Jun 2025*
 
-**AutoDev Vault** is your companion for mastering the **Automotive Software Development** domain.
+**Domain:** Automotive Embedded | Lighting ECU | Model-Based Development
 
-> Whether you're diving into Model-Based Design, AUTOSAR, Safety, or Testing – it’s all here.
+**Key Responsibilities:**
+- Developed and validated **AUTOSAR-compliant software components** using Simulink & Stateflow.
+- Performed **MIL/SIL testing** for lighting features like **DRLs**, **Turn Indicators**, **Reverse Lamps**, etc.
+- Led implementation of **code generation customization** via TLC for optimized embedded deployment.
+- Ensured **code quality and compliance** with **Polyspace**, **SonarQube**, **MISRA C**, and **MAAB Guidelines**.
+- Conducted **component-level unit testing** using **Google Test (GTest)**.
+- Created and maintained **High-Level Designs (HLDs)** and functional traceability documentation.
 
-### 🔧 Built With:
-- **Flutter + Dart** – Cross-platform app development
-- **GitHub Markdown Integration** – Dynamic content via MkDocs `.md` files
-- **Custom UI** – Themed navigation, animated homepage, and category-based access
-- **GitHub Discussions** – Feedback directly within the app
-
-### 💡 Key Features:
-- Topic-wise segregation: MBD, AUTOSAR, Embedded C, Software Quality, Testing, and System Design
-- System-based Dark/Light theme sync
-- Animated home with welcome message
-- Side navigation drawer with feedback/contact options
-- Real-time Markdown rendering from GitHub content
-
-📲 **[Download APK (v1.0.1)](https://github.com/Mahija07/Automotive_MBD_questionnaire/releases/tag/v1.0.1)**  
-🌐 **[View Docs Website](https://mahija07.github.io/Automotive_MBD_questionnaire/)**
+**Key Achievements:**
+- Delivered 5+ lighting modules used in production vehicles.
+- Reduced testing cycle time by 30% through automation.
+- Achieved 95%+ code coverage via structured GTest implementation.
+- Mentored team members on MBD best practices and quality compliance.
 
 ---
 
-## 📊 Language Usage Breakdown
+## 🛠 Skills & Tools
 
-<p align="center">
-  <img src="https://github.com/Mahija07/Automotive_MBD_questionnaire/blob/Model_Based_Development_QnA/docs/assets/Pie_Chart.png" width="400" alt="Language Distribution Pie Chart"/>
-</p>
+### 🌐 **Domains & Concepts**
+- Model-Based Development (MBD)
+- AUTOSAR Classic Platform
+- ISO 26262 (Functional Safety)
+- Embedded Software Design
+- ECU Software Integration
+- Automotive Lighting Control
 
-| Language    | Usage (%) |
-|-------------|-----------|
-| JavaScript  | 66.0%     |
-| HTML        | 29.3%     |
-| CSS         | 4.7%      |
-| C++         | 39.1%     |
-| CMake       | 31.6%     |
-| Dart        | 21.6%     |
-| Swift       | 3.1%      |
-| C           | 2.3%      |
-| Other       | 0.3%      |
-
----
-
-## 📂 Featured Repositories
-
-| Repository | Description |
-|-----------|-------------|
-| [Automotive_MBD_questionnaire](https://github.com/Mahija07/Automotive_MBD_questionnaire) | 📘 Categorized technical Q&A on Model-Based Design, AUTOSAR, Testing, and more |
-| [AutoDev_Vault](https://github.com/Mahija07/AutoDev_Vault/tree/AutoDev_Vault) | 📱 Flutter-based app rendering automotive interview questions from Markdown |
-| More private projects coming soon! 🔒 |
+### 🔧 **Technical Proficiencies**
+- **Languages:** Embedded C, C++, Python, MATLAB
+- **Modeling:** Simulink, Stateflow, Embedded Coder, TLC
+- **Testing:** GTest, MIL, SIL, Polyspace, SonarQube
+- **Standards:** MISRA C, MAAB Guidelines
+- **Version Control:** Git, GitHub, JIRA, Jenkins
+- **Tools:** MATLAB Scripting, MagicDraw, Visual Studio
 
 ---
 
-## 💼 Tech Stack
+## 🚀 Featured Project: AutoDev Vault
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-ff6f00?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![C](https://img.shields.io/badge/-Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MkDocs](https://img.shields.io/badge/-MkDocs-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+🧠 Curated a knowledge base for automotive engineers with 700+ interview Q&A on:
+- Simulink, Stateflow, TLC
+- AUTOSAR, RTE, ECU Testing
+- GTest, MISRA, Polyspace, ISO 26262
+
+📌 **Live Site:** [AutoDev Vault](https://mahija07.github.io/Automotive_MBD_questionnaire)  
+📦 **Repo:** [GitHub Repository](https://github.com/Mahija07/Automotive_MBD_questionnaire)  
+📱 **Mobile App:** [Flutter-based App](https://github.com/Mahija07/My_First_App)
+
+---
+
+## 📚 Other Work
+
+- C++ GUI projects using `wxWidgets`
+- Data structure visualizers and mini compilers in `Python`
+- Basic web apps using `HTML`, `JS`, and `CSS`
 
 ---
 
-## 🔗 Connect with Me
+## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahija-verma)
-- 💻 [GitHub](https://github.com/Mahija07)
-- 📱 AutoDev Vault App: [Release v1.0.1](https://github.com/Mahija07/Automotive_MBD_questionnaire/releases/tag/v1.0.1)
-- 🌐 Website: [AutoDev Vault Docs](https://mahija07.github.io/Automotive_MBD_questionnaire/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mahijaverma)  
+📩 Open to roles in Automotive Embedded | MBD | Functional Safety
 
 ---
+
+**“Engineering clean, safe, and intelligent vehicle software—model by model.”**
 
 *Made with ❤️ by Mahija*
