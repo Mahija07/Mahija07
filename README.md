@@ -61,8 +61,8 @@ I'm an Automotive Software Engineer with 4+ years of experience in **Model-Based
 - GTest, MISRA, Polyspace, ISO 26262
 
 📌 **Live Site:** [AutoDev Vault](https://mahija07.github.io/Automotive_MBD_questionnaire)  
-📦 **Repo:** [GitHub Repository](https://github.com/Mahija07/Automotive_MBD_questionnaire)  
-📱 **Mobile App:** [Flutter-based App](https://github.com/Mahija07/My_First_App)
+📦 **Repo:** [GitHub Repository](https://github.com/Mahija07)
+📱 **Mobile App:** [AutoVerse](https://play.google.com/store/apps/details?id=com.mahija.autoverse)
 
 ---
 
